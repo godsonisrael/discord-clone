@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
     <option name="sdkUUID" value="254d2518-b7f3-4d88-8e11-d897ff2231d8" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (discord-clone)" project-jdk-type="Python SDK" />
